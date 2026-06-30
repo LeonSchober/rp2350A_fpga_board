@@ -1,6 +1,9 @@
 # rp2350A_fpga_board
 rp2350A_fpga_board
 
+<img width="628" height="1256" alt="Screenshot 2026-05-30 141004" src="https://github.com/user-attachments/assets/310886df-4dcb-4fec-a088-552db5668893" />
+
+
 RP2350 & iCE40 FPGA Development Board
 This repository contains the hardware design files for a compact, high-performance development board combining the Raspberry Pi RP2350 MCU and the Lattice iCE40UP5K FPGA. This dual-chip architecture bridges the gap between flexible software execution and high-speed, parallel hardware acceleration, making it ideal for edge-computing, custom digital logic, and advanced interfacing projects.
 
