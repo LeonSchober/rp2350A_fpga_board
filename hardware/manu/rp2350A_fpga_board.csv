@@ -1,0 +1,29 @@
+ Reference   Qty   Value   DNP   Exclude  from  BOM   Exclude  from  Board   Footprint   Datasheet   Beschreibung 
+ C1  C2  C4  C5  C6  C8  C9  C10  C11  C12  C14  C20  C24  C26  C27  C28  C29  C32  C34  C36   20   100n            Capacitor_SMD:C_0603_1608Metric      Unpolarized  capacitor 
+ C3  C7  C13  C15  C16  C17  C23  C25  C30  C31  C33  C35  C37  C39  C41   15   4.7u            Capacitor_SMD:C_0603_1608Metric   ~   CAP  CER  4.7UF  6.3V  X5R  0402,Unpolarized  capacitor 
+ C18  C19   2   15p            Capacitor_SMD:C_0603_1608Metric      Unpolarized  capacitor 
+ C21   1   10u            Capacitor_SMD:C_0805_2012Metric      Unpolarized  capacitor 
+ D1   1   1N4148WT-7            Diode_SMD:D_SOD-523   https://www.vishay.com/docs/85748/1n4148w.pdf   DIODE  GEN  PURP  80V  125MA  SOD523 
+ D2  D3  D4  D6   4   LED            LED_SMD:LED_0603_1608Metric      Light  emitting  diode 
+ D5   1   1N5819WS            Diode_SMD:D_SOD-323   ~   40V  600mV@1A  1A  SOD-323  Schottky  Barrier  Diodes  (SBD)  ROHS 
+ J1   1   USB_C_Receptacle_USB2.0_16P            Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV   https://www.usb.org/sites/default/files/documents/usb_type-c.zip   USB  2.0-only  16P  Type-C  Receptacle  connector 
+ J2  J6   2   Conn_01x21_Pin            Connector_PinHeader_2.54mm:PinHeader_1x21_P2.54mm_Vertical      Generic  connector,  single  row,  01x21,  script  generated 
+ J5   1   BM03B-SRSS-TB            Connector_JST:JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical   ~   CONN  HEADER  SMD  3POS  1MM 
+ L1   1   3.3u            Inductor_SMD:L_1210_3225Metric      Inductor 
+ PTC1   1   0R            Resistor_SMD:R_0603_1608Metric   https://www.bourns.com/docs/Product-Datasheets/mffsmf.pdf   PTC  RESET  FUSE  6V  350MA  0603 
+ R1  R3   2   5k1            Resistor_SMD:R_0603_1608Metric   ~   Resistor 
+ R2   1   33            Resistor_SMD:R_0603_1608Metric      Resistor 
+ R4  R5   2   27            Resistor_SMD:R_0603_1608Metric      Resistor 
+ R6  R7  R8   3   1k            Resistor_SMD:R_0603_1608Metric      Resistor 
+ R9   1   0            Resistor_SMD:R_0603_1608Metric      Resistor 
+ R10  R11   2   DNF            Resistor_SMD:R_0603_1608Metric      Resistor 
+ R12  R13  R14  R16   4   10k            Resistor_SMD:R_0603_1608Metric      Resistor 
+ R15   1   2.2k            Resistor_SMD:R_0603_1608Metric      Resistor 
+ R17  R18  R19  R21   4   100            Resistor_SMD:R_0603_1608Metric      Resistor 
+ SW1  SW2  SW3   3   SW_Push            Button_Switch_SMD:SW_SPST_B3U-1000P      Push  button  switch,  generic,  two  pins 
+ U1   1   W25Q128JVS            Package_SO:SOIC-8_5.3x5.3mm_P1.27mm   https://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf   128Mbit  /  16MiB  Serial  Flash  Memory,  Standard/Dual/Quad  SPI,  2.7-3.6V,  SOIC-8 
+ U2   1   RP2350A            Package_DFN_QFN:QFN-60-1EP_7x7mm_P0.4mm_EP3.4x3.4mm   https://datasheets.raspberrypi.com/rp2350/rp2350-datasheet.pdf   A  microcontroller  by  Raspberry  Pi,  dual  CPU  architecture  (ARM  Cortex-M33  /  RISC-V  Hazard3),  150MHz,  no  flash,  520KB  SRAM,  12  PIO  state  machines,  VQFN-60 
+ U4   1   ICE40UP5K-SG48ITR            Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm   http://www.latticesemi.com/Products/FPGAandCPLD/iCE40Ultra   iCE40  UltraPlus  FPGA,  5280  LUTs,  1.2V,  48-pin  QFN 
+ U5   1   AP2112K-3.3            Package_TO_SOT_SMD:SOT-23-5   https://www.diodes.com/assets/Datasheets/AP2112.pdf   600mA  low  dropout  linear  regulator,  with  enable  pin,  3.8V-6V  input  voltage  range,  3.3V  fixed  positive  output,  SOT-23-5 
+ U6   1   AP2112K-1.2            Package_TO_SOT_SMD:SOT-23-5   https://www.diodes.com/assets/Datasheets/AP2112.pdf   600mA  low  dropout  linear  regulator,  with  enable  pin,  2.5V-6V  input  voltage  range,  1.2V  fixed  positive  output,  SOT-23-5 
+ Y1   1   ABM8-272-T3            Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm   ~   Crystal 
