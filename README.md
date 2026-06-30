@@ -1,7 +1,9 @@
 # rp2350A_fpga_board
 rp2350A_fpga_board
 
-<img width="628" height="1256" alt="Screenshot 2026-05-30 141004" src="https://github.com/user-attachments/assets/310886df-4dcb-4fec-a088-552db5668893" />
+
+<img width="2214" height="1957" alt="20260630_214738_1" src="https://github.com/user-attachments/assets/2c41d8ad-55a7-4a5c-bde8-b1d56ea0ed42" />
+
 
 
 RP2350 & iCE40 FPGA Development Board
